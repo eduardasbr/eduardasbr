@@ -1,4 +1,4 @@
- ✨**Hello! I'm Duda, future Software Engineer and Full-Stack Developer!**
+## ✨**Hello! I'm Duda, future Software Engineer and Full-Stack Developer!**
 
 - 📖 Software Engineering student at FIAP
 - 🌆 Currently working as a Claims Analyst Jr. at Chubb, an Insurance company!
